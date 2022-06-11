@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/pic24MQTT_NewBaud.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>2166</used>
+      <free>14218</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>134400</length>
+      <used>59517</used>
+      <free>74883</free>
+    </memory>
+  </executable>
+</project>

@@ -1,0 +1,21 @@
+build/default/production/MQTT_pub_cb.o:  \
+MQTT_pub_cb.c  \
+ mcc_generated_files/mcc.h  \
+mcc_generated_files/system.h  \
+ mcc_generated_files/clock.h  \
+mcc_generated_files/pin_manager.h  \
+ mcc_generated_files/spi1_driver.h  \
+mcc_generated_files/spi1_types.h  \
+ mcc_generated_files/oc1.h  \
+mcc_generated_files/tmr2.h  \
+ mcc_generated_files/tmr1.h  \
+mcc_generated_files/delay.h  \
+ mcc_generated_files/drivers/spi_master.h  \
+ mcc_generated_files/drivers/../spi1_driver.h  \
+ mcc_generated_files/drivers/timeout.h  \
+mcc_generated_files/uart1.h  \
+ mcc_generated_files/interrupt_manager.h  \
+mcc_generated_files/traps.h  \
+ mcc_generated_files/mqtt/mqtt_packetTransfer_interface.h  \
+state_control.h  \
+ MQTT_pub_cb.h 

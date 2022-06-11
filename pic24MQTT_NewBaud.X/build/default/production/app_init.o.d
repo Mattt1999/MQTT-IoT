@@ -1,0 +1,53 @@
+build/default/production/app_init.o:  \
+app_init.c  \
+mcc_generated_files/mcc.h  \
+ mcc_generated_files/system.h  \
+mcc_generated_files/clock.h  \
+ mcc_generated_files/pin_manager.h  \
+mcc_generated_files/spi1_driver.h  \
+ mcc_generated_files/spi1_types.h  \
+mcc_generated_files/oc1.h  \
+ mcc_generated_files/tmr2.h  \
+mcc_generated_files/tmr1.h  \
+ mcc_generated_files/delay.h  \
+mcc_generated_files/drivers/spi_master.h  \
+ mcc_generated_files/drivers/../spi1_driver.h  \
+ mcc_generated_files/drivers/timeout.h  \
+mcc_generated_files/uart1.h  \
+ mcc_generated_files/interrupt_manager.h  \
+mcc_generated_files/traps.h  \
+ mcc_generated_files/winc/include/winc.h  \
+ mcc_generated_files/winc/include/../driver/winc_adapter.h  \
+ mcc_generated_files/winc/include/../driver/../../config/conf_winc.h  \
+ mcc_generated_files/winc/include/../driver/../../config/../winc/include/conf_winc_defaults.h  \
+ mcc_generated_files/winc/include/../driver/../../config/../winc/m2m/m2m_wifi.h  \
+ mcc_generated_files/winc/include/../driver/../../config/../winc/m2m/m2m_types.h  \
+ mcc_generated_files/winc/include/../driver/../../config/../winc/socket/socket.h  \
+ mcc_generated_files/winc/include/../driver/../../config/../winc/socket/../../config/conf_winc.h  \
+ mcc_generated_files/winc/include/../common/winc_defines.h  \
+ mcc_generated_files/winc/include/../common/winc_debug.h  \
+ mcc_generated_files/winc/include/../m2m/m2m_types.h  \
+ mcc_generated_files/winc/include/../m2m/m2m_wifi.h  \
+ mcc_generated_files/winc/include/../m2m/m2m_periph.h  \
+ mcc_generated_files/winc/include/../m2m/m2m_ota.h  \
+ mcc_generated_files/winc/include/../common/ecc_types.h  \
+ mcc_generated_files/winc/include/../m2m/m2m_ssl.h  \
+ mcc_generated_files/winc/include/../socket/socket.h  \
+ mcc_generated_files/winc/include/../spi_flash/flexible_flash.h  \
+ mcc_generated_files/winc/include/../spi_flash/spi_flash_map.h  \
+ mcc_generated_files/winc/include/../spi_flash/spi_flash.h  \
+ mcc_generated_files/winc/include/winc_legacy.h  \
+ mcc_generated_files/mqtt/mqtt_core/mqtt_core.h  \
+ mcc_generated_files/mqtt/mqtt_core/../../config/mqtt_config.h  \
+ mcc_generated_files/mqtt/mqtt_core/../../config/../drivers/timeout.h  \
+ mcc_generated_files/mqtt/mqtt_core/../mqtt_comm_bsd/mqtt_comm_layer.h  \
+ mcc_generated_files/mqtt/mqtt_core/../mqtt_comm_bsd/../mqtt_exchange_buffer/mqtt_exchange_buffer.h  \
+ mcc_generated_files/config/../winc/socket/socket.h  \
+ mcc_generated_files/mqtt/mqtt_packetTransfer_interface.h  \
+ mcc_generated_files/mqtt/mqtt_winc_adapter.h  \
+ mcc_generated_files/mqtt/../winc/socket/socket.h  \
+ mcc_generated_files/config/../drivers/timeout.h  \
+wifi_callback.h  \
+ app_init.h  \
+cmd_interface.h  \
+MQTT_pub_cb.h 
