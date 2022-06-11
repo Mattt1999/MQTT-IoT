@@ -1,0 +1,2623 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+                              build/default/production/sensors_handle.o (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+                              build/default/production/sensors_handle.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+                              build/default/production/sensors_handle.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+                              build/default/production/sensors_handle.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+                              build/default/production/mcc_generated_files/winc/socket/socket.o (__udivmodqi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                              build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+                              build/default/production/mcc_generated_files/winc/socket/socket.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+                              build/default/production/main.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+                              build/default/production/application_init.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+                              build/default/production/application_init.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+                              build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o (__bswapsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+                              build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+                              build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (__prologue_saves__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (__epilogue_restores__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+                              build/default/production/command_line_interface.o (strtok)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+                              build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+                              build/default/production/command_line_interface.o (strcmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o) (strtok_r)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+                              build/default/production/mcc_generated_files/src/usart2.o (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+                              build/default/production/command_line_interface.o (printf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(putchar.o)
+                              build/default/production/mcc_generated_files/examples/uart_example.o (putchar)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(puts.o)
+                              build/default/production/application_init.o (puts)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+                              build/default/production/main.o (sprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vprintf.o)
+                              (vprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+l                   0x4               build/default/production/main.o
+temp                0x4               build/default/production/main.o
+publishRecvCallback
+                    0x2               build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+r                   0xb               build/default/production/main.o
+buffer              0x40              build/default/production/command_line_interface.o
+addr                0x10              build/default/production/main.o
+last_received_header
+                    0x1               build/default/production/main.o
+recv_buffer         0x100             build/default/production/command_line_interface.o
+dummy               0xa               build/default/production/mcc_generated_files/drivers/timeout.o
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+ .text          0x00000000        0x0 build/default/production/application_init.o
+ .data          0x00000000        0x0 build/default/production/application_init.o
+ .bss           0x00000000        0x0 build/default/production/application_init.o
+ .text.set_MQTT_publish_Handler
+                0x00000000        0x8 build/default/production/application_init.o
+ COMMON         0x00000000        0x0 build/default/production/application_init.o
+ .text          0x00000000        0x0 build/default/production/command_line_interface.o
+ .data          0x00000000        0x0 build/default/production/command_line_interface.o
+ .bss           0x00000000        0x0 build/default/production/command_line_interface.o
+ .text.number_of_commands
+                0x00000000        0x6 build/default/production/command_line_interface.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/timeout.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/timeout.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.timeout_hasPendingTimeouts
+                0x00000000       0x12 build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.timeout_hasPendingCallbacks
+                0x00000000       0x12 build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.timeout_getTimeRemaining
+                0x00000000       0x36 build/default/production/mcc_generated_files/drivers/timeout.o
+ .rodata.str1.1
+                0x00000000        0xd build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.printList
+                0x00000000       0x54 build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.timeout_flushAll
+                0x00000000       0x32 build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.timeout_startTimer
+                0x00000000        0xc build/default/production/mcc_generated_files/drivers/timeout.o
+ .text.timeout_stopTimer
+                0x00000000       0x50 build/default/production/mcc_generated_files/drivers/timeout.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/spi_master.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/spi_master.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/drivers/spi_master.o
+ .text.spi_master_open
+                0x00000000        0xc build/default/production/mcc_generated_files/drivers/spi_master.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/uart.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/uart.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/drivers/uart.o
+ .rodata.uart   0x00000000       0x14 build/default/production/mcc_generated_files/drivers/uart.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/drivers/uart.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.rd1RegCompleteHandler
+                0x00000000       0x18 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.wr2RegCompleteHandler
+                0x00000000       0x18 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.rdBlkRegCompleteHandler
+                0x00000000       0x1e build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.i2c_writeNBytes
+                0x00000000       0x46 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.i2c_read1ByteRegister
+                0x00000000       0x74 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.i2c_write2ByteRegister
+                0x00000000       0x60 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.i2c_readDataBlock
+                0x00000000       0x66 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.i2c_readNBytes
+                0x00000000       0x3a build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/examples/winc_example.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/examples/winc_example.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/examples/winc_example.o
+ .text.wifi_event_cb
+                0x00000000        0x2 build/default/production/mcc_generated_files/examples/winc_example.o
+ .rodata.str1.1
+                0x00000000        0xa build/default/production/mcc_generated_files/examples/winc_example.o
+ .text.winc_example
+                0x00000000       0x4c build/default/production/mcc_generated_files/examples/winc_example.o
+ .text.winc_register_init
+                0x00000000        0x2 build/default/production/mcc_generated_files/examples/winc_example.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/examples/winc_example.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.appCheckMQTTPublishTimeout
+                0x00000000       0x10 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.changeState
+                0x00000000        0xc build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.icmpReplyHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.dnsHandler
+                0x00000000       0x44 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.wifiHandler
+                0x00000000       0x14 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.socketHandler
+                0x00000000       0x9a build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .rodata.str1.1
+                0x00000000       0x48 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.app_mqttExampleInit
+                0x00000000       0x7c build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text.app_mqttScheduler
+                0x00000000      0x188 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .data.appMQTTPublishTimer
+                0x00000000        0xa build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .bss.appMQTTPublishTimeoutOccured
+                0x00000000        0x1 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .bss.recvBuffer
+                0x00000000      0x100 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .bss.appState  0x00000000        0x1 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .rodata.mqttPublishMsg
+                0x00000000        0xd build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .rodata.mqttPublishTopic
+                0x00000000       0x10 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/examples/mqtt_example.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/examples/uart_example.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/examples/uart_example.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/examples/uart_example.o
+ .text.UART_example_WRITE_STRING
+                0x00000000       0x40 build/default/production/mcc_generated_files/examples/uart_example.o
+ .rodata.str1.1
+                0x00000000       0x6e build/default/production/mcc_generated_files/examples/uart_example.o
+ .text.UART_example_PRINTF
+                0x00000000       0x42 build/default/production/mcc_generated_files/examples/uart_example.o
+ .text.UART_example_READ
+                0x00000000       0x9e build/default/production/mcc_generated_files/examples/uart_example.o
+ .text.UART_example_RUNALL
+                0x00000000       0x26 build/default/production/mcc_generated_files/examples/uart_example.o
+ .data.string   0x00000000        0x2 build/default/production/mcc_generated_files/examples/uart_example.o
+ .bss.rx        0x00000000       0x10 build/default/production/mcc_generated_files/examples/uart_example.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/examples/uart_example.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.wr1RegCompleteHandler_example
+                0x00000000       0x18 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.rd1RegCompleteHandler_example
+                0x00000000       0x18 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.rd2RegCompleteHandler_example
+                0x00000000       0x18 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.wr2RegCompleteHandler_example
+                0x00000000       0x18 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.rdBlkRegCompleteHandler_example
+                0x00000000       0x1e build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_write1ByteRegister
+                0x00000000       0x5a build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_writeNBytes
+                0x00000000       0x46 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_read1ByteRegister
+                0x00000000       0x74 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_read2ByteRegister
+                0x00000000       0x66 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_write2ByteRegister
+                0x00000000       0x60 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_readDataBlock
+                0x00000000       0x66 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text.I2C0_example_readNBytes
+                0x00000000       0x3a build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/examples/twi0_master_example.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .text.MQTT_LastSentSize
+                0x00000000        0xa build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.MQTT_GetConnectionState
+                0x00000000        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.MQTT_CreateUnsubscribePacket
+                0x00000000       0x7a build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.MQTT_GetLastHandlerState
+                0x00000000        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.MQTT_GetLastReceivedLength
+                0x00000000        0xa build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+ .text.MQTT_SetPublishReceptionCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_GetErrNo
+                0x00000000        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_socket
+                0x00000000       0x44 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_connect
+                0x00000000       0xb8 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_SetRecvHandlerTable
+                0x00000000        0xa build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_GetRecvHandlerTable
+                0x00000000        0xa build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_recv
+                0x00000000       0x70 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_htons
+                0x00000000        0x8 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_ntohl
+                0x00000000        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_htonl
+                0x00000000        0x4 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_ntohs
+                0x00000000        0x8 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_bind
+                0x00000000       0x8c build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_recvfrom
+                0x00000000       0x7e build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_listen
+                0x00000000       0x3a build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_accept
+                0x00000000       0x70 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_getsockopt
+                0x00000000        0xc build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_setsockopt
+                0x00000000       0x66 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_write
+                0x00000000        0xc build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_read
+                0x00000000        0xc build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_poll
+                0x00000000        0xc build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_GetSocketState
+                0x00000000       0x12 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_sendto
+                0x00000000       0xbe build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text.BSD_SocketHandler
+                0x00000000       0xbc build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .bss.winc_sockaddr.3470
+                0x00000000       0x10 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/spi0.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/spi0.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/spi0.o
+ .text.SPI0_Enable
+                0x00000000        0xc build/default/production/mcc_generated_files/src/spi0.o
+ .text.SPI0_Disable
+                0x00000000        0xc build/default/production/mcc_generated_files/src/spi0.o
+ .text.SPI0_Selected
+                0x00000000        0x4 build/default/production/mcc_generated_files/src/spi0.o
+ .text.SPI0_GetRxData
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/spi0.o
+ .text.SPI0_WriteTxData
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/spi0.o
+ .text.SPI0_WaitDataready
+                0x00000000        0xa build/default/production/mcc_generated_files/src/spi0.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/cpuint.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/cpuint.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/cpuint.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/usart2.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/usart2.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_SetISRCb
+                0x00000000       0x1e build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_SetTXISRCb
+                0x00000000        0xa build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_IsTxReady
+                0x00000000        0xe build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_IsRxReady
+                0x00000000        0xe build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_IsTxBusy
+                0x00000000       0x10 build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_IsTxDone
+                0x00000000        0xc build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_Read
+                0x00000000       0x32 build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_Enable
+                0x00000000        0xc build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_EnableRx
+                0x00000000        0xc build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_EnableTx
+                0x00000000        0xc build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_Disable
+                0x00000000        0xc build/default/production/mcc_generated_files/src/usart2.o
+ .text.USART2_GetData
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/usart2.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/protected_io.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/protected_io.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/protected_io.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/pin_manager.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/pin_manager.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_PD5_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA2_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_RST_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA4_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA3_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA6_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA5_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_nCS_DefaultInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTD_PD5_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA2_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_RST_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA4_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA3_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA6_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA5_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_nCS_SetInterruptHandler
+                0x00000000        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_PF1_SetInterruptHandler
+                0x00000000        0xa build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_PF0_SetInterruptHandler
+                0x00000000        0xa build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_CE_SetInterruptHandler
+                0x00000000        0xa build/default/production/mcc_generated_files/src/pin_manager.o
+ .text.PORTF_WAKE_SetInterruptHandler
+                0x00000000        0xa build/default/production/mcc_generated_files/src/pin_manager.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/rtc.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/rtc.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_SetCMPIsrCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_SetPITIsrCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_WritePeroid
+                0x00000000       0x12 build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_ReadPeriod
+                0x00000000        0xa build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_EnableCMPInterrupt
+                0x00000000        0xc build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_DisableCMPInterrupt
+                0x00000000        0xc build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_EnablePITInterrupt
+                0x00000000        0xc build/default/production/mcc_generated_files/src/rtc.o
+ .text.RTC_DisablePITInterrupt
+                0x00000000        0xc build/default/production/mcc_generated_files/src/rtc.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/twi0_master.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/twi0_master.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetWriteCollisionCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetDataNackCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetTimeoutCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetAddress
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterOpen
+                0x00000000        0x8 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterClose
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterEnableIrq
+                0x00000000        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterIsIrqEnabled
+                0x00000000       0x20 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetTimeout
+                0x00000000       0x1a build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterRead
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterGetRxData
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterTxData
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterTxAddr
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetReturnStopCallback
+                0x00000000        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetReturnResetCallback
+                0x00000000        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetRestartReadCallback
+                0x00000000        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/src/adc0.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/src/adc0.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_Enable
+                0x00000000        0xc build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_Disable
+                0x00000000        0xc build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_EnableAutoTrigger
+                0x00000000        0xc build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_DisableAutoTrigger
+                0x00000000        0xc build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowHigh
+                0x00000000        0xa build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowLow
+                0x00000000        0xa build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowMode
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowChannel
+                0x00000000        0x6 build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_StartConversion
+                0x00000000        0xc build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_IsConversionDone
+                0x00000000        0x8 build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetConversionResult
+                0x00000000        0xa build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetWindowResult
+                0x00000000       0x10 build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetResolution
+                0x00000000       0x10 build/default/production/mcc_generated_files/src/adc0.o
+ .text.ADC0_RegisterWindowCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/src/adc0.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_write_reg_no_rsp
+                0x00000000       0x84 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_deinit
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+ .text.winc_drv_deinit
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_set_power_save
+                0x00000000        0x6 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_deinit
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_reset
+                0x00000000       0x1e build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_deinit
+                0x00000000       0x1e build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .text.winc_chip_get_mac_address
+                0x00000000       0x86 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_cb
+                0x00000000      0x148 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_init
+                0x00000000       0x22 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_handshake_rsp
+                0x00000000       0x32 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_send_certs_to_winc
+                0x00000000      0x1ec build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_retrieve_cert
+                0x00000000      0x252 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_retrieve_hash
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_stop_processing_certs
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_ecc_process_done
+                0x00000000       0x12 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text.m2m_ssl_set_active_ciphersuites
+                0x00000000       0x32 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .data.genuStatus
+                0x00000000        0x1 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .bss.gu32HIFAddr
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .bss.gpfAppSSLCb
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_validate_ap_parameters
+                0x00000000       0x8e build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_download_mode
+                0x00000000       0x22 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_send_crl
+                0x00000000       0x38 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_deinit
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_delete_sc
+                0x00000000       0x3a build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_1x_mschap2
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_connect_1x_tls
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_mac_address
+                0x00000000       0x3c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_static_ip
+                0x00000000        0xe build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_dhcp
+                0x00000000       0x18 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_lsn_int
+                0x00000000        0xe build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_cust_InfoElement
+                0x00000000       0x22 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_scan_options
+                0x00000000       0x34 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_scan_region
+                0x00000000       0x2e build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_scan
+                0x00000000       0x52 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_scan_passive
+                0x00000000       0x56 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_scan_ssid_list
+                0x00000000       0xa4 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_wps
+                0x00000000       0x46 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_wps_disable
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_client_ctrl
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_server_init
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_p2p
+                0x00000000       0x3c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_p2p_disconnect
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_ap_ext
+                0x00000000       0x42 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_ap
+                0x00000000       0x6e build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_gains
+                0x00000000       0x16 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_disable_ap
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_curr_rssi
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_send_ethernet_pkt
+                0x00000000       0x66 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_mac_address
+                0x00000000       0x28 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_req_scan_result
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_num_ap_found
+                0x00000000        0x6 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_sleep_mode
+                0x00000000        0x6 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_sleep_mode
+                0x00000000       0x4c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_request_sleep
+                0x00000000       0x42 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_device_name
+                0x00000000       0x42 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_configure_sntp
+                0x00000000       0x62 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_start_provision_mode_ext
+                0x00000000       0xaa build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_start_provision_mode
+                0x00000000       0x6e build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_stop_provision_mode
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_connection_info
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_system_time
+                0x00000000       0x32 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_system_time
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_sntp
+                0x00000000       0x18 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_power_profile
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_tx_power
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_gain_table_idx
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_firmware_logs
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_set_battery_voltage
+                0x00000000       0x36 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_prng_get_random_bytes
+                0x00000000       0x4e build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_conf_auto_rate
+                0x00000000        0xe build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_get_state
+                0x00000000        0x6 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_enable_roaming
+                0x00000000       0x38 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_disable_roaming
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.genuPsMode
+                0x00000000        0x1 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_cb
+                0x00000000      0x18e build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_init
+                0x00000000       0x20 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_notif_set_url
+                0x00000000       0x18 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_notif_check_for_update
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_notif_sched
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_start_update
+                0x00000000       0x18 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_rollback
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_abort
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_switch_firmware
+                0x00000000       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_get_firmware_version
+                0x00000000       0x36 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_get
+                0x00000000       0x5c build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_read_hif
+                0x00000000       0x64 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_read_spi
+                0x00000000      0x138 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text.m2m_ota_host_file_erase
+                0x00000000       0x36 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.u32FlashHFDSize.3503
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.u32FlashHFDStart.3502
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .data.gu8CurrFileHandlerID
+                0x00000000        0x1 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.FileBlock
+                0x00000000        0x8 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfHFDEraseCb
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfHFDReadCb
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfHFDGetCb
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfOtaNotifCb
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .bss.gpfOtaUpdateCb
+                0x00000000        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/winc/m2m/m2m_crypto.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_periph.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_periph.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/m2m/m2m_periph.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/winc/m2m/m2m_periph.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.socketDeinit
+                0x00000000       0x2c build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.registerSocketEventCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.registerSocketResolveCallback
+                0x00000000        0xa build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.bind     0x00000000       0x96 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.listen   0x00000000       0x56 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.accept   0x00000000       0x1e build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.sendto   0x00000000       0xc6 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.recvfrom
+                0x00000000       0xc4 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.inet_ntop
+                0x00000000       0xb2 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.gethostbyname
+                0x00000000       0x32 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.setsockopt
+                0x00000000      0x17e build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.getsockopt
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.sslEnableCertExpirationCheck
+                0x00000000       0x3c build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text.IsSocketReady
+                0x00000000        0x6 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_write_enable
+                0x00000000       0xa6 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_read_status_reg
+                0x00000000       0xd4 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_pp
+                0x00000000      0x1e4 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_read_internal
+                0x00000000      0x150 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_enable
+                0x00000000      0x150 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_read
+                0x00000000       0x86 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_write
+                0x00000000       0xca build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_erase
+                0x00000000      0x182 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text.spi_flash_get_size
+                0x00000000      0x14e build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .bss.gu32InternalFlashSize
+                0x00000000        0x4 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .text.spi_flexible_flash_find_section
+                0x00000000      0x12a build/default/production/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .comment       0x00000000       0x31 build/default/production/mcc_generated_files/winc/spi_flash/flexible_flash.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/mcc.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/mcc.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/mcc.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/delay.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/delay.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/delay.o
+ .text.DELAY_microseconds
+                0x00000000       0x26 build/default/production/mcc_generated_files/delay.o
+ .text          0x00000000        0x0 build/default/production/mcc_generated_files/device_config.o
+ .data          0x00000000        0x0 build/default/production/mcc_generated_files/device_config.o
+ .bss           0x00000000        0x0 build/default/production/mcc_generated_files/device_config.o
+ .text          0x00000000        0x0 build/default/production/MQTT_create_packet.o
+ .data          0x00000000        0x0 build/default/production/MQTT_create_packet.o
+ .bss           0x00000000        0x0 build/default/production/MQTT_create_packet.o
+ .text          0x00000000        0x0 build/default/production/MQTT_pub_cb.o
+ .data          0x00000000        0x0 build/default/production/MQTT_pub_cb.o
+ .bss           0x00000000        0x0 build/default/production/MQTT_pub_cb.o
+ .rodata.str1.1
+                0x00000000       0x1a build/default/production/MQTT_pub_cb.o
+ .text.MQTT_publish_handler_cb
+                0x00000000        0x8 build/default/production/MQTT_pub_cb.o
+ .comment       0x00000000       0x31 build/default/production/MQTT_pub_cb.o
+ .text          0x00000000        0x0 build/default/production/wifi_callback.o
+ .data          0x00000000        0x0 build/default/production/wifi_callback.o
+ .bss           0x00000000        0x0 build/default/production/wifi_callback.o
+ .text          0x00000000        0x0 build/default/production/ping_cb.o
+ .data          0x00000000        0x0 build/default/production/ping_cb.o
+ .bss           0x00000000        0x0 build/default/production/ping_cb.o
+ .text          0x00000000        0x0 build/default/production/sensors_handle.o
+ .data          0x00000000        0x0 build/default/production/sensors_handle.o
+ .bss           0x00000000        0x0 build/default/production/sensors_handle.o
+ .text          0x00000000        0x0 build/default/production/state_control.o
+ .data          0x00000000        0x0 build/default/production/state_control.o
+ .bss           0x00000000        0x0 build/default/production/state_control.o
+ .text          0x00000000        0x0 build/default/production/socket_cb.o
+ .data          0x00000000        0x0 build/default/production/socket_cb.o
+ .bss           0x00000000        0x0 build/default/production/socket_cb.o
+ .text          0x00000000        0x0 build/default/production/main.o
+ .data          0x00000000        0x0 build/default/production/main.o
+ .bss           0x00000000        0x0 build/default/production/main.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x00000000       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_bswapsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(putchar.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(putchar.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(putchar.o)
+ .text.avr-libc
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(putchar.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(putchar.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(puts.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x0000c000         xr
+data             0x00802800         0x00001800         rw !x
+eeprom           0x00810000         0x00000100         rw !x
+fuse             0x00820000         0x0000000a         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x802800
+                0x00004000                __RODATA_PM_OFFSET__ = 0x4000
+LOAD C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+LOAD build/default/production/application_init.o
+LOAD build/default/production/command_line_interface.o
+LOAD build/default/production/mcc_generated_files/drivers/timeout.o
+LOAD build/default/production/mcc_generated_files/drivers/spi_master.o
+LOAD build/default/production/mcc_generated_files/drivers/uart.o
+LOAD build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+LOAD build/default/production/mcc_generated_files/examples/winc_example.o
+LOAD build/default/production/mcc_generated_files/examples/mqtt_example.o
+LOAD build/default/production/mcc_generated_files/examples/uart_example.o
+LOAD build/default/production/mcc_generated_files/examples/twi0_master_example.o
+LOAD build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+LOAD build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+LOAD build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+LOAD build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+LOAD build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+LOAD build/default/production/mcc_generated_files/src/spi0.o
+LOAD build/default/production/mcc_generated_files/src/cpuint.o
+LOAD build/default/production/mcc_generated_files/src/usart2.o
+LOAD build/default/production/mcc_generated_files/src/protected_io.o
+LOAD build/default/production/mcc_generated_files/src/pin_manager.o
+LOAD build/default/production/mcc_generated_files/src/rtc.o
+LOAD build/default/production/mcc_generated_files/src/twi0_master.o
+LOAD build/default/production/mcc_generated_files/src/adc0.o
+LOAD build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+LOAD build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+LOAD build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+LOAD build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+LOAD build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+LOAD build/default/production/mcc_generated_files/winc/m2m/m2m_ssl.o
+LOAD build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+LOAD build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+LOAD build/default/production/mcc_generated_files/winc/m2m/m2m_ota.o
+LOAD build/default/production/mcc_generated_files/winc/m2m/m2m_crypto.o
+LOAD build/default/production/mcc_generated_files/winc/m2m/m2m_periph.o
+LOAD build/default/production/mcc_generated_files/winc/socket/socket.o
+LOAD build/default/production/mcc_generated_files/winc/spi_flash/spi_flash.o
+LOAD build/default/production/mcc_generated_files/winc/spi_flash/flexible_flash.o
+LOAD build/default/production/mcc_generated_files/mcc.o
+LOAD build/default/production/mcc_generated_files/delay.o
+LOAD build/default/production/mcc_generated_files/device_config.o
+LOAD build/default/production/MQTT_create_packet.o
+LOAD build/default/production/MQTT_pub_cb.o
+LOAD build/default/production/wifi_callback.o
+LOAD build/default/production/ping_cb.o
+LOAD build/default/production/sensors_handle.o
+LOAD build/default/production/state_control.o
+LOAD build/default/production/socket_cb.o
+LOAD build/default/production/main.o
+                0x00000001                __MPLAB_BUILD = 0x1
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a
+LOAD C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3\libatmega4808.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00802800]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000c000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00001800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000a]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x652e
+ *(.vectors)
+ .vectors       0x00000000       0x90 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.main
+                0x00000090       0x18 build/default/production/main.o
+                0x000000a8                . = ALIGN (0x2)
+                0x000000a8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000a8        0x0 linker stubs
+ *(.trampolines*)
+                0x000000a8                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x000000a8        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x000000b0       0xfa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ *(.progmem*)
+                0x000001aa                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001aa                __ctors_start = .
+ *(.ctors)
+                0x000001aa                __ctors_end = .
+                0x000001aa                __dtors_start = .
+ *(.dtors)
+                0x000001aa                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001aa        0x0 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+                0x000001aa                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001aa        0xc C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001b6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+                0x000001b6                __do_copy_data
+ .init4         0x000001cc       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+                0x000001cc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001dc        0x8 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+ *(.init9)
+ *(.text)
+ .text          0x000001e4        0x4 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+                0x000001e4                __vector_28
+                0x000001e4                __vector_1
+                0x000001e4                __vector_34
+                0x000001e4                __vector_24
+                0x000001e4                __vector_12
+                0x000001e4                __bad_interrupt
+                0x000001e4                __vector_6
+                0x000001e4                __vector_35
+                0x000001e4                __vector_30
+                0x000001e4                __vector_25
+                0x000001e4                __vector_11
+                0x000001e4                __vector_13
+                0x000001e4                __vector_17
+                0x000001e4                __vector_19
+                0x000001e4                __vector_7
+                0x000001e4                __vector_27
+                0x000001e4                __vector_5
+                0x000001e4                __vector_9
+                0x000001e4                __vector_21
+                0x000001e4                __vector_15
+                0x000001e4                __vector_8
+                0x000001e4                __vector_26
+                0x000001e4                __vector_14
+                0x000001e4                __vector_10
+                0x000001e4                __vector_16
+                0x000001e4                __vector_18
+                0x000001e4                __vector_20
+                0x000001e8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.check_timeout
+                0x000001e8       0x10 build/default/production/application_init.o
+                0x000001e8                check_timeout
+ .text.wifi_init
+                0x000001f8       0x4a build/default/production/application_init.o
+                0x000001f8                wifi_init
+ .text.application_init
+                0x00000242       0x66 build/default/production/application_init.o
+                0x00000242                application_init
+ .text.get_mac  0x000002a8       0x68 build/default/production/command_line_interface.o
+                0x000002a8                get_mac
+ .text.subscribe_to
+                0x00000310       0x28 build/default/production/command_line_interface.o
+                0x00000310                subscribe_to
+ .text.publish_to
+                0x00000338       0x26 build/default/production/command_line_interface.o
+                0x00000338                publish_to
+ .text.ping     0x0000035e       0x6c build/default/production/command_line_interface.o
+                0x0000035e                ping
+ .text.broker_disconnect
+                0x000003ca       0x24 build/default/production/command_line_interface.o
+                0x000003ca                broker_disconnect
+ .text.wifi_disconnect
+                0x000003ee        0xc build/default/production/command_line_interface.o
+                0x000003ee                wifi_disconnect
+ .text.new_socket
+                0x000003fa      0x110 build/default/production/command_line_interface.o
+                0x000003fa                new_socket
+ .text.set_resolution
+                0x0000050a       0xa2 build/default/production/command_line_interface.o
+                0x0000050a                set_resolution
+ .text.USART2_NewRxIsrCb
+                0x000005ac       0x36 build/default/production/command_line_interface.o
+                0x000005ac                USART2_NewRxIsrCb
+ .text.connect_to
+                0x000005e2       0x6c build/default/production/command_line_interface.o
+                0x000005e2                connect_to
+ .text.user_input
+                0x0000064e       0xde build/default/production/command_line_interface.o
+                0x0000064e                user_input
+ .text.set_new_uart_interrupt
+                0x0000072c        0x8 build/default/production/command_line_interface.o
+                0x0000072c                set_new_uart_interrupt
+ .text.dummyHandler
+                0x00000734        0x8 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000734                dummyHandler
+ .text.stopTimeouts
+                0x0000073c       0x2a build/default/production/mcc_generated_files/drivers/timeout.o
+                0x0000073c                stopTimeouts
+ .text.setTimerDuration
+                0x00000766       0x5c build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000766                setTimerDuration
+ .text.makeAbsolute
+                0x000007c2       0x80 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x000007c2                makeAbsolute
+ .text.rebaseList
+                0x00000842       0x70 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000842                rebaseList
+ .text.sortedInsert
+                0x000008b2       0xe4 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x000008b2                sortedInsert
+ .text.startTimerAtHead
+                0x00000996       0xa2 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000996                startTimerAtHead
+ .text.timeout_deleteHelper
+                0x00000a38       0x76 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000a38                timeout_deleteHelper
+ .text.timeout_delete
+                0x00000aae       0x28 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000aae                timeout_delete
+ .text.enqueueCallback
+                0x00000ad6       0x44 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000ad6                enqueueCallback
+ .text.timeout_isr
+                0x00000b1a       0x56 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000b1a                timeout_isr
+ .text.timeout_initialize
+                0x00000b70        0x8 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000b70                timeout_initialize
+ .text.timeout_create
+                0x00000b78       0x6a build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000b78                timeout_create
+ .text.timeout_callNextCallback
+                0x00000be2       0x6e build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00000be2                timeout_callNextCallback
+ .text.WINC_open
+                0x00000c50        0x6 build/default/production/mcc_generated_files/drivers/spi_master.o
+                0x00000c50                WINC_open
+ .text.wr1RegCompleteHandler
+                0x00000c56       0x18 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.rd2RegCompleteHandler
+                0x00000c6e       0x18 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .text.i2c_write1ByteRegister
+                0x00000c86       0x5a build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+                0x00000c86                i2c_write1ByteRegister
+ .text.i2c_read2ByteRegister
+                0x00000ce0       0x66 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+                0x00000ce0                i2c_read2ByteRegister
+ .text.MQTT_ClientInitialise
+                0x00000d46       0x54 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+                0x00000d46                MQTT_ClientInitialise
+ .text.MQTT_GetClientConnectionInfo
+                0x00000d9a        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+                0x00000d9a                MQTT_GetClientConnectionInfo
+ .text.MQTT_Send
+                0x00000da0       0x36 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+                0x00000da0                MQTT_Send
+ .text.MQTT_Close
+                0x00000dd6       0x22 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+                0x00000dd6                MQTT_Close
+ .text.MQTT_GetReceivedData
+                0x00000df8       0x26 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+                0x00000df8                MQTT_GetReceivedData
+ .text.checkConnackTimeoutState
+                0x00000e1e       0x12 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.checkPingreqTimeoutState
+                0x00000e30       0x26 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.checkPingrespTimeoutState
+                0x00000e56       0x14 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.checkSubackTimeoutState
+                0x00000e6a       0x12 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.checkUnsubackTimeoutState
+                0x00000e7c       0x12 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.mqttEncodeLength
+                0x00000e8e       0x28 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.mqttProcessPublish
+                0x00000eb6      0x1ae build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .text.MQTT_initialiseState
+                0x00001064        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x00001064                MQTT_initialiseState
+ .text.MQTT_CreateConnectPacket
+                0x0000106a      0x138 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x0000106a                MQTT_CreateConnectPacket
+ .text.MQTT_CreatePublishPacket
+                0x000011a2       0xfc build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x000011a2                MQTT_CreatePublishPacket
+ .text.MQTT_CreateSubscribePacket
+                0x0000129e       0x7e build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x0000129e                MQTT_CreateSubscribePacket
+ .text.MQTT_Disconnect
+                0x0000131c       0x80 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x0000131c                MQTT_Disconnect
+ .text.MQTT_GetLastReceivedPacketHeader
+                0x0000139c        0x6 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x0000139c                MQTT_GetLastReceivedPacketHeader
+ .text.MQTT_TransmissionHandler
+                0x000013a2      0x4d0 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x000013a2                MQTT_TransmissionHandler
+ .text.MQTT_ReceptionHandler
+                0x00001872      0x3c0 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x00001872                MQTT_ReceptionHandler
+ .text.MQTT_ExchangeBufferInit
+                0x00001c32       0x10 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+                0x00001c32                MQTT_ExchangeBufferInit
+ .text.MQTT_ExchangeBufferWrite
+                0x00001c42       0x86 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+                0x00001c42                MQTT_ExchangeBufferWrite
+ .text.MQTT_ExchangeBufferPeek
+                0x00001cc8       0x5c build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+                0x00001cc8                MQTT_ExchangeBufferPeek
+ .text.MQTT_ExchangeBufferRead
+                0x00001d24       0x60 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+                0x00001d24                MQTT_ExchangeBufferRead
+ .text.MQTT_GetPublishReceptionCallback
+                0x00001d84        0xa build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+                0x00001d84                MQTT_GetPublishReceptionCallback
+ .text.getSocketInfo
+                0x00001d8e       0x4e build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+                0x00001d8e                getSocketInfo
+ .text.BSD_close
+                0x00001ddc       0x3c build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+                0x00001ddc                BSD_close
+ .text.BSD_send
+                0x00001e18       0x66 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+                0x00001e18                BSD_send
+ .text.SPI0_Initialize
+                0x00001e7e       0x16 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001e7e                SPI0_Initialize
+ .text.SPI0_Open
+                0x00001e94       0x1e build/default/production/mcc_generated_files/src/spi0.o
+                0x00001e94                SPI0_Open
+ .text.SPI0_OpenConfiguration
+                0x00001eb2       0x14 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001eb2                SPI0_OpenConfiguration
+ .text.SPI0_Close
+                0x00001ec6        0x6 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001ec6                SPI0_Close
+ .text.SPI0_ExchangeByte
+                0x00001ecc       0x12 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001ecc                SPI0_ExchangeByte
+ .text.SPI0_ExchangeBlock
+                0x00001ede       0x24 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001ede                SPI0_ExchangeBlock
+ .text.SPI0_WriteBlock
+                0x00001f02       0x24 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001f02                SPI0_WriteBlock
+ .text.SPI0_ReadBlock
+                0x00001f26       0x24 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001f26                SPI0_ReadBlock
+ .text.SPI0_WriteByte
+                0x00001f4a        0x6 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001f4a                SPI0_WriteByte
+ .text.SPI0_ReadByte
+                0x00001f50        0x6 build/default/production/mcc_generated_files/src/spi0.o
+                0x00001f50                SPI0_ReadByte
+ .text.CPUINT_Initialize
+                0x00001f56       0x1a build/default/production/mcc_generated_files/src/cpuint.o
+                0x00001f56                CPUINT_Initialize
+ .text.USART2_DefaultRxIsrCb
+                0x00001f70       0x2c build/default/production/mcc_generated_files/src/usart2.o
+                0x00001f70                USART2_DefaultRxIsrCb
+ .text.USART2_DefaultTxIsrCb
+                0x00001f9c       0x3e build/default/production/mcc_generated_files/src/usart2.o
+                0x00001f9c                USART2_DefaultTxIsrCb
+ .text.USART2_SetRXISRCb
+                0x00001fda        0xa build/default/production/mcc_generated_files/src/usart2.o
+                0x00001fda                USART2_SetRXISRCb
+ .text.__vector_31
+                0x00001fe4       0x52 build/default/production/mcc_generated_files/src/usart2.o
+                0x00001fe4                __vector_31
+ .text.__vector_32
+                0x00002036       0x52 build/default/production/mcc_generated_files/src/usart2.o
+                0x00002036                __vector_32
+ .text.__vector_33
+                0x00002088       0x2a build/default/production/mcc_generated_files/src/usart2.o
+                0x00002088                __vector_33
+ .text.USART2_Write
+                0x000020b2       0x3e build/default/production/mcc_generated_files/src/usart2.o
+                0x000020b2                USART2_Write
+ .text.USART2_printCHAR
+                0x000020f0        0xa build/default/production/mcc_generated_files/src/usart2.o
+                0x000020f0                USART2_printCHAR
+ .text.USART2_Initialize
+                0x000020fa       0x46 build/default/production/mcc_generated_files/src/usart2.o
+                0x000020fa                USART2_Initialize
+ .text.protected_write_io
+                0x00002140        0x8 build/default/production/mcc_generated_files/src/protected_io.o
+                0x00002140                protected_write_io
+ .text.PORTF_WAKE_DefaultInterruptHandler
+                0x00002148        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+                0x00002148                PORTF_WAKE_DefaultInterruptHandler
+ .text.PORTF_INT_DefaultInterruptHandler
+                0x0000214a        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+                0x0000214a                PORTF_INT_DefaultInterruptHandler
+ .text.PORTF_PF1_DefaultInterruptHandler
+                0x0000214c        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+                0x0000214c                PORTF_PF1_DefaultInterruptHandler
+ .text.PORTF_PF0_DefaultInterruptHandler
+                0x0000214e        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+                0x0000214e                PORTF_PF0_DefaultInterruptHandler
+ .text.PORTF_CE_DefaultInterruptHandler
+                0x00002150        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+                0x00002150                PORTF_CE_DefaultInterruptHandler
+ .text.PORT_Initialize
+                0x00002152       0x6e build/default/production/mcc_generated_files/src/pin_manager.o
+                0x00002152                PORT_Initialize
+ .text.PIN_MANAGER_Initialize
+                0x000021c0      0x136 build/default/production/mcc_generated_files/src/pin_manager.o
+                0x000021c0                PIN_MANAGER_Initialize
+ .text.PORTF_INT_SetInterruptHandler
+                0x000022f6        0xa build/default/production/mcc_generated_files/src/pin_manager.o
+                0x000022f6                PORTF_INT_SetInterruptHandler
+ .text.__vector_29
+                0x00002300       0x8e build/default/production/mcc_generated_files/src/pin_manager.o
+                0x00002300                __vector_29
+ .text.RTC_Initialize
+                0x0000238e       0x40 build/default/production/mcc_generated_files/src/rtc.o
+                0x0000238e                RTC_Initialize
+ .text.RTC_SetOVFIsrCallback
+                0x000023ce        0xa build/default/production/mcc_generated_files/src/rtc.o
+                0x000023ce                RTC_SetOVFIsrCallback
+ .text.__vector_3
+                0x000023d8       0x76 build/default/production/mcc_generated_files/src/rtc.o
+                0x000023d8                __vector_3
+ .text.__vector_4
+                0x0000244e       0x58 build/default/production/mcc_generated_files/src/rtc.o
+                0x0000244e                __vector_4
+ .text.RTC_WriteCounter
+                0x000024a6       0x12 build/default/production/mcc_generated_files/src/rtc.o
+                0x000024a6                RTC_WriteCounter
+ .text.RTC_ReadCounter
+                0x000024b8        0xa build/default/production/mcc_generated_files/src/rtc.o
+                0x000024b8                RTC_ReadCounter
+ .text.RTC_EnableOVFInterrupt
+                0x000024c2        0xc build/default/production/mcc_generated_files/src/rtc.o
+                0x000024c2                RTC_EnableOVFInterrupt
+ .text.RTC_DisableOVFInterrupt
+                0x000024ce        0xc build/default/production/mcc_generated_files/src/rtc.o
+                0x000024ce                RTC_DisableOVFInterrupt
+ .text.RTC_ClearOVFInterruptFlag
+                0x000024da        0xc build/default/production/mcc_generated_files/src/rtc.o
+                0x000024da                RTC_ClearOVFInterruptFlag
+ .text.RTC_IsOVFInterruptEnabled
+                0x000024e6        0xc build/default/production/mcc_generated_files/src/rtc.o
+                0x000024e6                RTC_IsOVFInterruptEnabled
+ .text.I2C0_DO_IDLE
+                0x000024f2       0x12 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_SEND_ADR_READ
+                0x00002504       0x1a build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_SEND_RESTART
+                0x0000251e        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_SEND_ADR_WRITE
+                0x00002522       0x18 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_SEND_RESTART_WRITE
+                0x0000253a        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_set_callback
+                0x0000253e       0x3e build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_RETURN_RESET
+                0x0000257c        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_RETURN_STOP
+                0x00002580        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_SEND_RESTART_READ
+                0x00002584        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetDataCompleteCallback
+                0x00002588        0xa build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002588                I2C0_SetDataCompleteCallback
+ .text.I2C0_SetAddressNackCallback
+                0x00002592        0xa build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002592                I2C0_SetAddressNackCallback
+ .text.I2C0_Initialize
+                0x0000259c       0x1c build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000259c                I2C0_Initialize
+ .text.I2C0_SetBuffer
+                0x000025b8       0x24 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x000025b8                I2C0_SetBuffer
+ .text.I2C0_MasterDisableIrq
+                0x000025dc        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x000025dc                I2C0_MasterDisableIrq
+ .text.I2C0_MasterClearIrq
+                0x000025e8        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x000025e8                I2C0_MasterClearIrq
+ .text.I2C0_MasterBusErrorOverride
+                0x000025f4        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x000025f4                I2C0_MasterBusErrorOverride
+ .text.I2C0_Close
+                0x00002600       0x3e build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002600                I2C0_Close
+ .text.I2C0_MasterArbitrationlostOverride
+                0x0000263e        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000263e                I2C0_MasterArbitrationlostOverride
+ .text.I2C0_MasterResetBus
+                0x0000264a       0x12 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000264a                I2C0_MasterResetBus
+ .text.I2C0_DO_BUS_ERROR
+                0x0000265c       0x18 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_RESET
+                0x00002674       0x16 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_Open
+                0x0000268a       0x92 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000268a                I2C0_Open
+ .text.I2C0_MasterIsRxOrTx
+                0x0000271c        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000271c                I2C0_MasterIsRxOrTx
+ .text.I2C0_MasterClearBusCollision
+                0x00002728        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002728                I2C0_MasterClearBusCollision
+ .text.I2C0_DO_BUS_COLLISION
+                0x00002734       0x30 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterWaitForEvent
+                0x00002764       0x12 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002764                I2C0_MasterWaitForEvent
+ .text.I2C0_MasterStop
+                0x00002776        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002776                I2C0_MasterStop
+ .text.I2C0_DO_SEND_STOP
+                0x00002782       0x16 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_ADDRESS_NACK
+                0x00002798       0x36 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterIsNack
+                0x000027ce        0xa build/default/production/mcc_generated_files/src/twi0_master.o
+                0x000027ce                I2C0_MasterIsNack
+ .text.I2C0_MasterIsr
+                0x000027d8       0x52 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_Poller
+                0x0000282a       0x14 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000282a                I2C0_Poller
+ .text.I2C0_MasterOperation
+                0x0000283e       0x2c build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000283e                I2C0_MasterOperation
+ .text.I2C0_MasterWrite
+                0x0000286a        0x6 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000286a                I2C0_MasterWrite
+ .text.I2C0_DO_TX
+                0x00002870       0x70 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_TX_EMPTY
+                0x000028e0       0x5c build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterSendAck
+                0x0000293c        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0000293c                I2C0_MasterSendAck
+ .text.I2C0_DO_TX_ACK
+                0x00002948        0x8 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_RX_ACK
+                0x00002950        0x8 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_MasterSendNack
+                0x00002958        0xc build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002958                I2C0_MasterSendNack
+ .text.I2C0_DO_RX_NACK_RESTART
+                0x00002964        0x8 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_RX_NACK_STOP
+                0x0000296c       0x1a build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_DO_RX
+                0x00002986       0xa4 build/default/production/mcc_generated_files/src/twi0_master.o
+ .text.I2C0_SetRestartWriteCallback
+                0x00002a2a        0x4 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00002a2a                I2C0_SetRestartWriteCallback
+ .text.ADC0_Initialize
+                0x00002a2e       0x2a build/default/production/mcc_generated_files/src/adc0.o
+                0x00002a2e                ADC0_Initialize
+ .text.ADC0_GetConversion
+                0x00002a58       0x18 build/default/production/mcc_generated_files/src/adc0.o
+                0x00002a58                ADC0_GetConversion
+ .text.__vector_23
+                0x00002a70       0x58 build/default/production/mcc_generated_files/src/adc0.o
+                0x00002a70                __vector_23
+ .text.__vector_22
+                0x00002ac8       0x22 build/default/production/mcc_generated_files/src/adc0.o
+                0x00002ac8                __vector_22
+ .text.spi_rsp  0x00002aea       0x62 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_data_read
+                0x00002b4c       0x56 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_cmd_send
+                0x00002ba2       0x2a build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .text.spi_read_reg
+                0x00002bcc       0x80 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .text.winc_bus_write_reg
+                0x00002c4c       0x80 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002c4c                winc_bus_write_reg
+ .text.winc_bus_write_block
+                0x00002ccc       0xe8 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002ccc                winc_bus_write_block
+ .text.winc_bus_read_block
+                0x00002db4       0xa8 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002db4                winc_bus_read_block
+ .text.winc_bus_init
+                0x00002e5c        0xe build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002e5c                winc_bus_init
+ .text.winc_bus_reset
+                0x00002e6a        0xe build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002e6a                winc_bus_reset
+ .text.winc_bus_deinit
+                0x00002e78        0xa build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002e78                winc_bus_deinit
+ .text.winc_bus_read_reg
+                0x00002e82       0x48 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002e82                winc_bus_read_reg
+ .text.winc_bus_read_reg_with_ret
+                0x00002eca       0x20 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002eca                winc_bus_read_reg_with_ret
+ .text.winc_bus_set_reg_bits
+                0x00002eea       0x88 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002eea                winc_bus_set_reg_bits
+ .text.winc_bus_clear_reg_bits
+                0x00002f72       0x92 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00002f72                winc_bus_clear_reg_bits
+ .text.winc_bus_error
+                0x00003004        0x6 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+                0x00003004                winc_bus_error
+ .text.winc_interrupt_handler
+                0x0000300a       0x10 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .text.winc_adapter_interrupt_request_pending
+                0x0000301a        0xe build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x0000301a                winc_adapter_interrupt_request_pending
+ .text.winc_adapter_interrupt_serviced
+                0x00003028       0x2c build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x00003028                winc_adapter_interrupt_serviced
+ .text.winc_adapter_init
+                0x00003054       0x12 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x00003054                winc_adapter_init
+ .text.winc_adapter_sleep
+                0x00003066       0x34 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x00003066                winc_adapter_sleep
+ .text.winc_adapter_chip_enable_assert
+                0x0000309a        0x8 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x0000309a                winc_adapter_chip_enable_assert
+ .text.winc_adapter_chip_enable_deassert
+                0x000030a2        0x8 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x000030a2                winc_adapter_chip_enable_deassert
+ .text.winc_adapter_reset_assert
+                0x000030aa        0x8 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x000030aa                winc_adapter_reset_assert
+ .text.winc_adapter_reset_deassert
+                0x000030b2        0x8 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x000030b2                winc_adapter_reset_deassert
+ .text.winc_adapter_spi_open
+                0x000030ba        0x4 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x000030ba                winc_adapter_spi_open
+ .text.winc_adapter_spi_write
+                0x000030be       0xb8 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x000030be                winc_adapter_spi_write
+ .text.winc_adapter_spi_read
+                0x00003176       0xb8 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x00003176                winc_adapter_spi_read
+ .text.winc_adapter_spi_close
+                0x0000322e        0x4 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+                0x0000322e                winc_adapter_spi_close
+ .text.winc_drv_init
+                0x00003232       0x76 build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+                0x00003232                winc_drv_init
+ .text.winc_drv_start
+                0x000032a8       0x18 build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+                0x000032a8                winc_drv_start
+ .text.hif_null_cb
+                0x000032c0        0x2 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .text.winc_hif_chip_wake
+                0x000032c2       0x28 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x000032c2                winc_hif_chip_wake
+ .text.winc_hif_chip_sleep
+                0x000032ea       0x2e build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x000032ea                winc_hif_chip_sleep
+ .text.winc_hif_init
+                0x00003318        0xc build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x00003318                winc_hif_init
+ .text.winc_hif_send
+                0x00003324      0x1de build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x00003324                winc_hif_send
+ .text.winc_hif_send_no_data
+                0x00003502       0x2a build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x00003502                winc_hif_send_no_data
+ .text.winc_hif_handle_isr
+                0x0000352c      0x14a build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x0000352c                winc_hif_handle_isr
+ .text.winc_hif_receive
+                0x00003676       0x74 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+                0x00003676                winc_hif_receive
+ .text.winc_chip_interrupts_enable
+                0x000036ea       0x36 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x000036ea                winc_chip_interrupts_enable
+ .text.winc_chip_get_id
+                0x00003720      0x118 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x00003720                winc_chip_get_id
+ .text.winc_chip_sleep
+                0x00003838       0x70 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x00003838                winc_chip_sleep
+ .text.winc_chip_wake
+                0x000038a8       0x94 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x000038a8                winc_chip_wake
+ .text.winc_chip_halt
+                0x0000393c       0x36 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x0000393c                winc_chip_halt
+ .text.winc_chip_init
+                0x00003972      0x210 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x00003972                winc_chip_init
+ .text.winc_chip_get_otp_mac_address
+                0x00003b82       0xb4 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+                0x00003b82                winc_chip_get_otp_mac_address
+ .text.m2m_wifi_connect_prepare_msg
+                0x00003c36       0xd0 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.hexstr_2_bytes
+                0x00003d06       0x4a build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .text.m2m_wifi_cb
+                0x00003d50      0x110 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003d50                m2m_wifi_cb
+ .text.m2m_wifi_init_hold
+                0x00003e60       0x16 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003e60                m2m_wifi_init_hold
+ .text.m2m_wifi_handle_events
+                0x00003e76        0x4 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003e76                m2m_wifi_handle_events
+ .text.m2m_wifi_default_connect
+                0x00003e7a       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003e7a                m2m_wifi_default_connect
+ .text.m2m_wifi_connect_open
+                0x00003e8a       0x46 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003e8a                m2m_wifi_connect_open
+ .text.m2m_wifi_connect_wep
+                0x00003ed0       0xac build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003ed0                m2m_wifi_connect_wep
+ .text.m2m_wifi_connect_psk
+                0x00003f7c       0xf0 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00003f7c                m2m_wifi_connect_psk
+ .text.m2m_wifi_connect_sc
+                0x0000406c       0xfa build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x0000406c                m2m_wifi_connect_sc
+ .text.m2m_wifi_connect
+                0x00004166       0x14 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x00004166                m2m_wifi_connect
+ .text.m2m_wifi_disconnect
+                0x0000417a       0x10 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x0000417a                m2m_wifi_disconnect
+ .text.m2m_wifi_get_otp_mac_address
+                0x0000418a       0x38 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x0000418a                m2m_wifi_get_otp_mac_address
+ .text.m2m_wifi_get_firmware_version
+                0x000041c2       0x38 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x000041c2                m2m_wifi_get_firmware_version
+ .text.m2m_wifi_init_start
+                0x000041fa       0x62 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x000041fa                m2m_wifi_init_start
+ .text.m2m_wifi_init
+                0x0000425c       0x1e build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+                0x0000425c                m2m_wifi_init
+ .text.m2m_fwinfo_version_check
+                0x0000427a       0x68 build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+                0x0000427a                m2m_fwinfo_version_check
+ .text.m2m_fwinfo_get_firmware_info
+                0x000042e2       0xbc build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+                0x000042e2                m2m_fwinfo_get_firmware_info
+ .text.m2m_ip_cb
+                0x0000439e      0x49c build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x0000439e                m2m_ip_cb
+ .text.socketInit
+                0x0000483a       0x26 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x0000483a                socketInit
+ .text.registerSocketCallback
+                0x00004860       0x12 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004860                registerSocketCallback
+ .text.socket   0x00004872      0x110 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004872                socket
+ .text.connect  0x00004982       0x98 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004982                connect
+ .text.send     0x00004a1a       0xc0 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004a1a                send
+ .text.recv     0x00004ada       0xbe build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004ada                recv
+ .text.close    0x00004b98       0x88 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004b98                close
+ .text.inet_addr
+                0x00004c20       0xb4 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004c20                inet_addr
+ .text.m2m_ping_req
+                0x00004cd4       0x92 build/default/production/mcc_generated_files/winc/socket/socket.o
+                0x00004cd4                m2m_ping_req
+ .text.ccp_write_io
+                0x00004d66        0x8 build/default/production/mcc_generated_files/mcc.o
+ .text.BOD_Initialize
+                0x00004d6e       0x16 build/default/production/mcc_generated_files/mcc.o
+                0x00004d6e                BOD_Initialize
+ .text.__vector_2
+                0x00004d84       0x1e build/default/production/mcc_generated_files/mcc.o
+                0x00004d84                __vector_2
+ .text.CLKCTRL_Initialize
+                0x00004da2       0x40 build/default/production/mcc_generated_files/mcc.o
+                0x00004da2                CLKCTRL_Initialize
+ .text.SLPCTRL_Initialize
+                0x00004de2        0xe build/default/production/mcc_generated_files/mcc.o
+                0x00004de2                SLPCTRL_Initialize
+ .text.WDT_Initialize
+                0x00004df0        0xe build/default/production/mcc_generated_files/mcc.o
+                0x00004df0                WDT_Initialize
+ .text.SYSTEM_Initialize
+                0x00004dfe       0x30 build/default/production/mcc_generated_files/mcc.o
+                0x00004dfe                SYSTEM_Initialize
+ .text.DELAY_milliseconds
+                0x00004e2e       0x14 build/default/production/mcc_generated_files/delay.o
+                0x00004e2e                DELAY_milliseconds
+ .text.create_MQTT_connect_packet
+                0x00004e42       0x40 build/default/production/MQTT_create_packet.o
+                0x00004e42                create_MQTT_connect_packet
+ .text.create_MQTT_subscribe_packet
+                0x00004e82       0x48 build/default/production/MQTT_create_packet.o
+                0x00004e82                create_MQTT_subscribe_packet
+ .text.create_MQTT_publish_packet
+                0x00004eca       0x46 build/default/production/MQTT_create_packet.o
+                0x00004eca                create_MQTT_publish_packet
+ .text.wifi_call_back
+                0x00004f10       0x3c build/default/production/wifi_callback.o
+                0x00004f10                wifi_call_back
+ .text.ping_cb  0x00004f4c       0x7c build/default/production/ping_cb.o
+                0x00004f4c                ping_cb
+ .text.ping_callback
+                0x00004fc8       0x6a build/default/production/ping_cb.o
+                0x00004fc8                ping_callback
+ .text.get_light
+                0x00005032       0x3e build/default/production/sensors_handle.o
+                0x00005032                get_light
+ .text.get_temperature
+                0x00005070       0xa4 build/default/production/sensors_handle.o
+                0x00005070                get_temperature
+ .text.change_state
+                0x00005114        0xc build/default/production/state_control.o
+                0x00005114                change_state
+ .text.change_mqtt_state
+                0x00005120        0xc build/default/production/state_control.o
+                0x00005120                change_mqtt_state
+ .text.socket_call_back
+                0x0000512c       0xca build/default/production/socket_cb.o
+                0x0000512c                socket_call_back
+ .text.startup.main
+                0x000051f6      0x326 build/default/production/main.o
+                0x000051f6                main
+ .text.avr-libc.fplib
+                0x0000551c        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+                0x0000551c                __subsf3
+                0x0000551e                __addsf3
+ .text.avr-libc.fplib
+                0x0000552a       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+                0x0000554c                __addsf3x
+ .text.avr-libc.fplib
+                0x000055f6        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+                0x000055f6                __divsf3
+ .text.avr-libc.fplib
+                0x000055fe       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+                0x0000561e                __divsf3x
+                0x00005624                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000056da       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+                0x000056da                __floatunsisf
+                0x000056de                __floatsisf
+ .text.avr-libc.fplib
+                0x00005754        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+                0x00005754                __fp_inf
+ .text.avr-libc.fplib
+                0x00005760        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+                0x00005760                __fp_nan
+ .text.avr-libc.fplib
+                0x00005766        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+                0x00005766                __fp_pscA
+ .text.avr-libc.fplib
+                0x00005774        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+                0x00005774                __fp_pscB
+ .text.avr-libc.fplib
+                0x00005782       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+                0x00005782                __fp_round
+ .text.avr-libc.fplib
+                0x000057a4       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+                0x000057a4                __fp_split3
+                0x000057b4                __fp_splitA
+ .text.avr-libc.fplib
+                0x000057e8        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+                0x000057e8                __fp_zero
+                0x000057ea                __fp_szero
+ .text.avr-libc.fplib
+                0x000057f6        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+                0x000057f6                __mulsf3
+ .text.avr-libc.fplib
+                0x000057fe       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+                0x0000581c                __mulsf3x
+                0x00005822                __mulsf3_pse
+ .text.avr-libc
+                0x000058d0      0x6fa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+                0x000058d0                vfprintf
+ .text.libgcc.div
+                0x00005fca       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                0x00005fca                __udivmodhi4
+ .text.libgcc.div
+                0x00005ff2       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_divmodhi4.o)
+                0x00005ff2                _div
+                0x00005ff2                __divmodhi4
+ .text.libgcc   0x0000601a        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_tablejump2.o)
+                0x0000601a                __tablejump2__
+ .text.libgcc.mul
+                0x00006026       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_umulhisi3.o)
+                0x00006026                __umulhisi3
+ .text.libgcc.mul
+                0x00006044       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_muluhisi3.o)
+                0x00006044                __muluhisi3
+ .text.libgcc.prologue
+                0x0000605a       0x32 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_prologue.o)
+                0x0000605a                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000608c       0x30 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_epilogue.o)
+                0x0000608c                __epilogue_restores__
+ .text.avr-libc
+                0x000060bc      0x1b0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+                0x000060bc                __ftoa_engine
+ .text.avr-libc
+                0x0000626c       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                0x0000626c                strnlen_P
+ .text.avr-libc
+                0x00006282        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+                0x00006282                strtok
+ .text.avr-libc
+                0x0000628c       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+                0x0000628c                memcpy
+ .text.avr-libc
+                0x0000629e       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+                0x0000629e                strcmp
+ .text.avr-libc
+                0x000062b0       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                0x000062b0                strnlen
+ .text.avr-libc
+                0x000062c6       0x4e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+                0x000062c6                strtok_r
+ .text.avr-libc
+                0x00006314       0x78 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                0x00006314                fputc
+ .text.avr-libc
+                0x0000638c       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+                0x0000638c                printf
+ .text.avr-libc
+                0x000063b8       0x60 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(puts.o)
+                0x000063b8                puts
+ .text.avr-libc
+                0x00006418       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+                0x00006418                sprintf
+ .text.avr-libc
+                0x0000645c       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vprintf.o)
+                0x0000645c                vprintf
+ .text.avr-libc
+                0x0000646e       0xbc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                0x0000646e                __ultoa_invert
+                0x0000652a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000652a        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                0x0000652a                _exit
+                0x0000652a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000652a        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000652e                _etext = .
+
+.rodata         0x0000a52e      0x450 load address 0x0000652e
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000a52e       0x56 build/default/production/application_init.o
+ .rodata.str1.1
+                0x0000a584      0x1bf build/default/production/command_line_interface.o
+ .rodata.spiMaster
+                0x0000a743       0x14 build/default/production/mcc_generated_files/drivers/spi_master.o
+                0x0000a743                spiMaster
+ .rodata.u8CmdBuf.3399
+                0x0000a757        0x5 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .rodata.u8CmdBuf.3395
+                0x0000a75c        0x9 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .rodata.gHifCallbacks
+                0x0000a765        0xe build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .rodata.str1.1
+                0x0000a773       0x11 build/default/production/MQTT_create_packet.o
+ .rodata.str1.1
+                0x0000a784       0x38 build/default/production/wifi_callback.o
+ .rodata.str1.1
+                0x0000a7bc       0x53 build/default/production/ping_cb.o
+ .rodata.str1.1
+                0x0000a80f       0x38 build/default/production/socket_cb.o
+ .rodata.str1.1
+                0x0000a847      0x137 build/default/production/main.o
+                                0x155 (size before relaxing)
+ *(.gnu.linkonce.r*)
+
+.data           0x00802800       0xec load address 0x0000697e
+                0x00802800                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.user_input_timer
+                0x00802800        0xa build/default/production/application_init.o
+                0x00802800                user_input_timer
+ .data.publish_timer
+                0x0080280a        0xa build/default/production/application_init.o
+                0x0080280a                publish_timer
+ .data.function
+                0x00802814       0x12 build/default/production/command_line_interface.o
+                0x00802814                function
+ .data.builtins_functions
+                0x00802826       0x12 build/default/production/command_line_interface.o
+                0x00802826                builtins_functions
+ .data.dummy_exec
+                0x00802838        0xa build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00802838                dummy_exec
+ .data.mqqtSocket
+                0x00802842        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .data.unsubackTimer
+                0x00802843        0xa build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x00802843                unsubackTimer
+ .data.subackTimer
+                0x0080284d        0xa build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x0080284d                subackTimer
+ .data.pingrespTimer
+                0x00802857        0xa build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x00802857                pingrespTimer
+ .data.pingreqTimer
+                0x00802861        0xa build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x00802861                pingreqTimer
+ .data.connackTimer
+                0x0080286b        0xa build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+                0x0080286b                connackTimer
+ .data.spi0_configurations
+                0x00802875        0x4 build/default/production/mcc_generated_files/src/spi0.o
+                0x00802875                spi0_configurations
+ .data.USART2_tx_isr_cb
+                0x00802879        0x2 build/default/production/mcc_generated_files/src/usart2.o
+                0x00802879                USART2_tx_isr_cb
+ .data.USART2_rx_isr_cb
+                0x0080287b        0x2 build/default/production/mcc_generated_files/src/usart2.o
+                0x0080287b                USART2_rx_isr_cb
+ .data.USART2_stream
+                0x0080287d        0xe build/default/production/mcc_generated_files/src/usart2.o
+                0x0080287d                USART2_stream
+ .data.I2C0_fsmStateTable
+                0x0080288b       0x24 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x0080288b                I2C0_fsmStateTable
+ .data.bSPIBusError
+                0x008028af        0x1 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .data.WiFiCbTable
+                0x008028b0       0x2d build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .data.dstIPaddr
+                0x008028dd        0xe build/default/production/main.o
+                0x008028dd                dstIPaddr
+ *(.gnu.linkonce.d*)
+                0x008028ec                . = ALIGN (0x2)
+ *fill*         0x008028eb        0x1 
+                0x008028ec                _edata = .
+                0x008028ec                PROVIDE (__data_end, .)
+
+.bss            0x008028ec      0x531
+                0x008028ec                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008028ec        0x2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ *(.bss*)
+ .bss.is_command_finished
+                0x008028ee        0x1 build/default/production/command_line_interface.o
+                0x008028ee                is_command_finished
+ .bss.poz       0x008028ef        0x1 build/default/production/command_line_interface.o
+                0x008028ef                poz
+ .bss.isRunning
+                0x008028f0        0x1 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x008028f0                isRunning
+ .bss.lastTimerLoad
+                0x008028f1        0x4 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x008028f1                lastTimerLoad
+ .bss.absoluteTimeofLastTimeout
+                0x008028f5        0x4 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x008028f5                absoluteTimeofLastTimeout
+ .bss.executeQueueHead
+                0x008028f9        0x2 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x008028f9                executeQueueHead
+ .bss.listHead  0x008028fb        0x2 build/default/production/mcc_generated_files/drivers/timeout.o
+                0x008028fb                listHead
+ .bss.lastSentSize
+                0x008028fd        0x2 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .bss.mqttRxBuff
+                0x008028ff       0xc8 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .bss.mqttTxBuff
+                0x008029c7      0x190 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .bss.mqttConn  0x00802b57       0x12 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .bss.mqttState
+                0x00802b69        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.lastReceivedLength
+                0x00802b6a        0x2 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.lastReceivedPacketHeader
+                0x00802b6c        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.lastMQTTHandlerState
+                0x00802b6d        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.mqttTimeouts
+                0x00802b6e        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.txUnsubscribePacket
+                0x00802b6f        0xd build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.txSubscribePacket
+                0x00802b7c        0xe build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.txPublishPacket
+                0x00802b8a       0x10 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.txConnectPacket
+                0x00802b9a       0x1d build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.mqttRxFlags
+                0x00802bb7        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.mqttTxFlags
+                0x00802bb8        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .bss.packetRecvInfo
+                0x00802bb9        0x2 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .bss.bsdErrorNumber
+                0x00802bbb        0x1 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .bss.spi0_desc
+                0x00802bbc        0x1 build/default/production/mcc_generated_files/src/spi0.o
+ .bss.USART2_tx_elements
+                0x00802bbd        0x1 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_tx_tail
+                0x00802bbe        0x1 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_tx_head
+                0x00802bbf        0x1 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_txbuf
+                0x00802bc0        0x8 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_rx_elements
+                0x00802bc8        0x1 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_rx_tail
+                0x00802bc9        0x1 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_rx_head
+                0x00802bca        0x1 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.USART2_rxbuf
+                0x00802bcb        0x8 build/default/production/mcc_generated_files/src/usart2.o
+ .bss.PORTF_WAKE_InterruptHandler
+                0x00802bd3        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .bss.PORTF_INT_InterruptHandler
+                0x00802bd5        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .bss.PORTF_CE_InterruptHandler
+                0x00802bd7        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .bss.PORTF_PF0_InterruptHandler
+                0x00802bd9        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .bss.PORTF_PF1_InterruptHandler
+                0x00802bdb        0x2 build/default/production/mcc_generated_files/src/pin_manager.o
+ .bss.RTC_PIT_isr_cb
+                0x00802bdd        0x2 build/default/production/mcc_generated_files/src/rtc.o
+                0x00802bdd                RTC_PIT_isr_cb
+ .bss.RTC_CMP_isr_cb
+                0x00802bdf        0x2 build/default/production/mcc_generated_files/src/rtc.o
+                0x00802bdf                RTC_CMP_isr_cb
+ .bss.RTC_OVF_isr_cb
+                0x00802be1        0x2 build/default/production/mcc_generated_files/src/rtc.o
+                0x00802be1                RTC_OVF_isr_cb
+ .bss.I2C0_status
+                0x00802be3       0x24 build/default/production/mcc_generated_files/src/twi0_master.o
+                0x00802be3                I2C0_status
+ .bss.is_conversion_done
+                0x00802c07        0x1 build/default/production/mcc_generated_files/src/adc0.o
+                0x00802c07                is_conversion_done
+ .bss.ADC0_window_cb
+                0x00802c08        0x2 build/default/production/mcc_generated_files/src/adc0.o
+                0x00802c08                ADC0_window_cb
+ .bss.serviceRequest
+                0x00802c0a        0x1 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .bss.gbChipPwrSave
+                0x00802c0b        0x1 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu16RxSize
+                0x00802c0c        0x2 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu32RxAddr
+                0x00802c0e        0x4 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu8ChipSleep
+                0x00802c12        0x1 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .bss.gu32ChipID.3376
+                0x00802c13        0x4 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .bss.gu8scanInProgress
+                0x00802c17        0x1 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gpfAppWifiCb
+                0x00802c18        0x2 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gu8WifiState
+                0x00802c1a        0x1 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.gu8ChNum  0x00802c1b        0x1 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .bss.u8NextUdpSock.3531
+                0x00802c1c        0x1 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.u8NextTcpSock.3530
+                0x00802c1d        0x1 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gu32PingId
+                0x00802c1e        0x4 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gfpPingCb
+                0x00802c22        0x2 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gbSocketInit
+                0x00802c24        0x1 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gpfAppResolveCb
+                0x00802c25        0x2 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gpfAppSocketCb
+                0x00802c27        0x2 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gu16SessionID
+                0x00802c29        0x2 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.gastrSockets
+                0x00802c2b       0x79 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .bss.is_time_to_publish
+                0x00802ca4        0x1 build/default/production/main.o
+                0x00802ca4                is_time_to_publish
+ .bss.current_mqtt_state
+                0x00802ca5        0x1 build/default/production/main.o
+                0x00802ca5                current_mqtt_state
+ .bss.current_state
+                0x00802ca6        0x1 build/default/production/main.o
+                0x00802ca6                current_state
+ *(COMMON)
+ COMMON         0x00802ca7      0x140 build/default/production/command_line_interface.o
+                0x00802ca7                buffer
+                0x00802ce7                recv_buffer
+ COMMON         0x00802de7        0xa build/default/production/mcc_generated_files/drivers/timeout.o
+                0x00802de7                dummy
+ COMMON         0x00802df1        0x2 build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+                0x00802df1                publishRecvCallback
+ COMMON         0x00802df3       0x24 build/default/production/main.o
+                0x00802df3                l
+                0x00802df7                temp
+                0x00802dfb                r
+                0x00802e06                addr
+                0x00802e16                last_received_header
+ COMMON         0x00802e17        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+                0x00802e17                __iob
+                0x00802e1d                PROVIDE (__bss_end, .)
+                0x0000697e                __data_load_start = LOADADDR (.data)
+                0x00006a6a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00802e1d        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00802e1d                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse           0x00820000        0x9
+ *(.fuse)
+ .fuse          0x00820000        0x9 build/default/production/mcc_generated_files/device_config.o
+                0x00820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 build/default/production/application_init.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 build/default/production/command_line_interface.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/drivers/timeout.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/drivers/spi_master.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/drivers/i2c_simple_master.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/mqtt/mqtt_comm_bsd/mqtt_comm_layer.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/mqtt/mqtt_core/mqtt_core.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/mqtt/mqtt_exchange_buffer/mqtt_exchange_buffer.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/mqtt/mqtt_packetTransfer_interface.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/mqtt/mqtt_winc_adapter.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/spi0.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/cpuint.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/usart2.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/pin_manager.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/rtc.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/twi0_master.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/src/adc0.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/driver/winc_spi.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/driver/winc_adapter.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/driver/winc_drv.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/driver/winc_hif.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/driver/winc_asic.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/m2m/m2m_wifi.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/m2m/m2m_fwinfo.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/winc/socket/socket.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/mcc.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/delay.o
+ .comment       0x00000030       0x31 build/default/production/mcc_generated_files/device_config.o
+ .comment       0x00000030       0x31 build/default/production/MQTT_create_packet.o
+ .comment       0x00000030       0x31 build/default/production/wifi_callback.o
+ .comment       0x00000030       0x31 build/default/production/ping_cb.o
+ .comment       0x00000030       0x31 build/default/production/sensors_handle.o
+ .comment       0x00000030       0x31 build/default/production/state_control.o
+ .comment       0x00000030       0x31 build/default/production/socket_cb.o
+ .comment       0x00000030       0x31 build/default/production/main.o
+ .comment       0x00000030       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libprintf_flt.a(vfprintf_flt.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(iob.o)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(printf.o)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(puts.o)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a(vprintf.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x229c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x229c C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+
+.debug_abbrev   0x00000000     0x20c2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x20c2 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+
+.debug_line     0x00000000      0x16f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x16f C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0xecd
+ *(.debug_str)
+ .debug_str     0x00000000      0xecd C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/gcc/dev/atmega4808/avrxmega3/crtatmega4808.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/mqtt_socketsNewBaud.X.production.elf elf32-avr)
+LOAD linker stubs
